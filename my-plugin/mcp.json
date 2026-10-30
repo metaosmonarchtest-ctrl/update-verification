@@ -1,0 +1,205 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "activecampaign-mcp": {
+      "type": "streamable-http",
+      "url": "https://developers.activecampaign.com/mcp"
+    },
+    "assemblyai-mcp": {
+      "type": "streamable-http",
+      "url": "https://www.assemblyai.com/docs/mcp"
+    },
+    "attio-mcp": {
+      "type": "streamable-http",
+      "url": "https://docs.attio.com/mcp"
+    },
+    "auth0-mcp": {
+      "type": "streamable-http",
+      "url": "https://auth0.com/docs/mcp"
+    },
+    "braintrust-mcp": {
+      "type": "streamable-http",
+      "url": "https://www.braintrust.dev/docs/mcp"
+    },
+    "cal-com-mcp": {
+      "type": "streamable-http",
+      "url": "https://cal.com/docs/mcp"
+    },
+    "checkly-mcp": {
+      "type": "streamable-http",
+      "url": "https://www.checklyhq.com/docs/mcp"
+    },
+    "chronosphere-mcp": {
+      "type": "streamable-http",
+      "url": "https://docs.chronosphere.io/mcp"
+    },
+    "clickhouse-mcp": {
+      "type": "streamable-http",
+      "url": "https://clickhouse.com/docs/mcp"
+    },
+    "context7-mcp": {
+      "type": "streamable-http",
+      "url": "https://mcp.context7.com/mcp"
+    },
+    "convex-mcp": {
+      "type": "streamable-http",
+      "url": "https://mcp.convex.dev/mcp"
+    },
+    "deepl-mcp": {
+      "type": "streamable-http",
+      "url": "https://developers.deepl.com/mcp"
+    },
+    "deepwiki-mcp": {
+      "type": "streamable-http",
+      "url": "https://mcp.deepwiki.com/mcp"
+    },
+    "e2b-mcp": {
+      "type": "streamable-http",
+      "url": "https://e2b.dev/docs/mcp"
+    },
+    "firecrawl-mcp": {
+      "type": "streamable-http",
+      "url": "https://mcp.firecrawl.dev/mcp"
+    },
+    "gorgias-mcp": {
+      "type": "streamable-http",
+      "url": "https://developers.gorgias.com/mcp"
+    },
+    "hibob-mcp": {
+      "type": "streamable-http",
+      "url": "https://apidocs.hibob.com/mcp"
+    },
+    "honeycomb-mcp": {
+      "type": "streamable-http",
+      "url": "https://docs.honeycomb.io/mcp"
+    },
+    "infisical-mcp": {
+      "type": "streamable-http",
+      "url": "https://infisical.com/docs/mcp"
+    },
+    "javadocs-dev-mcp": {
+      "type": "streamable-http",
+      "url": "https://www.javadocs.dev/mcp"
+    },
+    "langfuse-docs-mcp": {
+      "type": "streamable-http",
+      "url": "https://langfuse.com/api/mcp"
+    },
+    "loops-mcp": {
+      "type": "streamable-http",
+      "url": "https://loops.so/docs/mcp"
+    },
+    "mdn-web-docs-mcp-mcp": {
+      "type": "streamable-http",
+      "url": "https://mcp.mdn.mozilla.net/mcp"
+    },
+    "meilisearch-mcp": {
+      "type": "streamable-http",
+      "url": "https://www.meilisearch.com/docs/mcp"
+    },
+    "mercury-mcp": {
+      "type": "streamable-http",
+      "url": "https://docs.mercury.com/mcp"
+    },
+    "modern-treasury-mcp": {
+      "type": "streamable-http",
+      "url": "https://docs.moderntreasury.com/mcp"
+    },
+    "neon-docs-mcp": {
+      "type": "streamable-http",
+      "url": "https://neon.com/docs/mcp"
+    },
+    "nuxt-docs-mcp": {
+      "type": "streamable-http",
+      "url": "https://nuxt.com/mcp"
+    },
+    "omni-mcp": {
+      "type": "streamable-http",
+      "url": "https://docs.omni.co/mcp"
+    },
+    "onetrust-mcp": {
+      "type": "streamable-http",
+      "url": "https://developer.onetrust.com/mcp"
+    },
+    "openrouter-mcp": {
+      "type": "streamable-http",
+      "url": "https://openrouter.ai/docs/mcp"
+    },
+    "orb-mcp": {
+      "type": "streamable-http",
+      "url": "https://docs.withorb.com/mcp"
+    },
+    "pandadoc-mcp": {
+      "type": "streamable-http",
+      "url": "https://developers.pandadoc.com/mcp"
+    },
+    "parallel-search-mcp": {
+      "type": "streamable-http",
+      "url": "https://search.parallel.ai/mcp"
+    },
+    "people-data-labs-mcp": {
+      "type": "streamable-http",
+      "url": "https://docs.peopledatalabs.com/mcp"
+    },
+    "perplexity-mcp": {
+      "type": "streamable-http",
+      "url": "https://docs.perplexity.ai/mcp"
+    },
+    "pinecone-docs-mcp": {
+      "type": "streamable-http",
+      "url": "https://docs.pinecone.io/mcp"
+    },
+    "pipedream-mcp": {
+      "type": "streamable-http",
+      "url": "https://pipedream.com/docs/mcp"
+    },
+    "prefect-mcp": {
+      "type": "streamable-http",
+      "url": "https://docs.prefect.io/mcp"
+    },
+    "resend-mcp": {
+      "type": "streamable-http",
+      "url": "https://resend.com/docs/mcp"
+    },
+    "retool-mcp": {
+      "type": "streamable-http",
+      "url": "https://docs.retool.com/mcp"
+    },
+    "shippo-mcp": {
+      "type": "streamable-http",
+      "url": "https://docs.goshippo.com/mcp"
+    },
+    "sinch-mcp": {
+      "type": "streamable-http",
+      "url": "https://developers.sinch.com/mcp"
+    },
+    "socket-mcp": {
+      "type": "streamable-http",
+      "url": "https://docs.socket.dev/mcp"
+    },
+    "tavily-mcp": {
+      "type": "streamable-http",
+      "url": "https://docs.tavily.com/mcp"
+    },
+    "tenable-mcp": {
+      "type": "streamable-http",
+      "url": "https://developer.tenable.com/mcp"
+    },
+    "together-ai-mcp": {
+      "type": "streamable-http",
+      "url": "https://docs.together.ai/mcp"
+    },
+    "unkey-mcp": {
+      "type": "streamable-http",
+      "url": "https://www.unkey.com/docs/mcp"
+    },
+    "wistia-mcp": {
+      "type": "streamable-http",
+      "url": "https://docs.wistia.com/mcp"
+    },
+    "yahoo-finance-mcp": {
+      "type": "streamable-http",
+      "url": "https://gateway.mcpservers.org/yahoo-finance/mcp"
+    }
+  }
+}
